@@ -1,7 +1,19 @@
+# Prerequisites
+
+Requires MetaMask chrome extension
+
+
 # Install Dependencies
 `npm i`
+`npm install ganache --global`
 
-[Download Ghanache](https://trufflesuite.com/ganache/)
+# Operations
+
+Run ganache 
+`ganache`
+
+Run truffle dashboard
+`truffle dashboard`
 
 
 # Use Sample
